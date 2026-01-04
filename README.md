@@ -1,4 +1,4 @@
-TypingSpeedPro
+TypingSpeedPro 🚀
 
 TypingSpeedPro is a typing speed test served by a custom C++ HTTP server using Winsock.
 It demonstrates socket programming, basic HTTP handling, and frontend integration.
